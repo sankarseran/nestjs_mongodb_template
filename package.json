@@ -33,7 +33,7 @@
     "@types/joi": "^14.3.2",
     "@types/mongoose": "^4.7.45",
     "@types/passport-local-mongoose": "^4.0.12",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "class-validator": "^0.9.1",
     "config": "^3.1.0",
     "fastify-swagger": "^2.3.2",
