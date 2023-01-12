@@ -34,7 +34,7 @@
     "@types/mongoose": "^4.7.45",
     "@types/passport-local-mongoose": "^4.0.12",
     "bcrypt": "^3.0.6",
-    "class-validator": "^0.9.1",
+    "class-validator": "^0.14.0",
     "config": "^3.1.0",
     "fastify-swagger": "^2.3.2",
     "hbs": "^4.0.4",
